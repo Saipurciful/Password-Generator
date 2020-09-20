@@ -18,7 +18,7 @@
   <li>Next, it will prompt for character types to include in the password, which are lowercase, uppercase, numeric and/or special characters. At least one type of character should be selected, otherwise it will alert the user and prompt the user back to choose again.</li>
   <li>After all prompts are answered, a password is generated that matches the selected criteria and it will be written to the page.</li>
   </0l>
- <h2>How To Create The Project</h2>
+<h2>How To Create The Project</h2>
   <ol>
   <li>Create .HTML file for the webpage which contains a "Password Generator" button.</li>
   <li>Create .CSS file to polish the .HTML page.</li>
