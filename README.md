@@ -19,7 +19,6 @@
   <li>After all prompts are answered, a password is generated that matches the selected criteria and it will be written to the page.</li>
   </0l>
   
- 
 <h2>How To Create The Project</h2>
  
   <ol>
