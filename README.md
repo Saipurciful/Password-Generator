@@ -54,3 +54,6 @@
 - https://www.youtube.com/watch?v=s9wW2PpJsmQ
 - https://javascript.info/while-for.
 - https://www.w3schools.com/js/js_loop_for.asp
+
+<h2>Here is the link to deployed project</h2>
+-https://saipurciful.github.io/Password-Generator/
